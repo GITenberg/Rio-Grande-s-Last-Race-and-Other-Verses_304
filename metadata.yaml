@@ -1,0 +1,29 @@
+_repo: Rio-Grande-s-Last-Race-and-Other-Verses_304
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paterson, A. B. (Andrew Barton)
+    aliases:
+    - Paterson, Andrew Barton
+    - Paterson, Banjo
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '118'
+    url: http://www.gutenberg.org/2009/agents/118
+    wikipedia: http://en.wikipedia.org/wiki/Banjo_Paterson
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '1995-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australian poetry'
+- !lcc 'PR'
+- GITenberg
+title: Rio Grande's Last Race, and Other Verses
+url: http://www.gutenberg.org/ebooks/304
